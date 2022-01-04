@@ -1,0 +1,10 @@
+#	.gitignore
+
+.*.sw?
+
+**/ubuntu-bionic-18.04-cloudimg-console.log
+**/.bashrc
+**/.vagrant/
+**/.kube/
+**/log/
+**/resources/
